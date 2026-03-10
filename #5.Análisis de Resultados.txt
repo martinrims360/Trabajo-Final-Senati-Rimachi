@@ -1,0 +1,28 @@
+Responder las siguientes preguntas:
+
+¿Qué producto genera mayores ventas?
+
+- El producto que genera mayor ventas es "Eldon File Cart, Single Width", segun el grafico de barras
+
+¿Qué ciudad tiene mayor volumen de ventas?
+
+- La ciudad dentro del top 10 en volumen en ventas es California
+
+¿Cuál es el promedio de ventas?
+
+- El promedio de ventas es : 127.29505868590368
+
+¿Existe mucha variación en las ventas?
+
+- Segun el histograma muestra que sí existe una alta variación en las ventas. 
+  La mayoría de las transacciones se concentran en valores bajos, mientras 
+  que algunas pocas alcanzan valores muy altos, generando una distribución 
+  asimétrica hacia la derecha.
+
+¿Qué producto debería promocionarse más según los datos?
+
+Los productos que son carpetas o Binders en ingles segun los graficos en espcial el de barras
+muestran que el producto "Eldon File Cart, Single Width" son los mas vendidos y por ende son 
+los que mas deberian promocionarse 
+
+
